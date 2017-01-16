@@ -7,4 +7,4 @@ A simple fighting game built with VueJS, where you can attack, special attack, h
 2. Change directory
 
         $ cd VueJS-MonsterSlayer
-3. Open 'index.html' file in browser
+3. Open `index.html` file in browser
